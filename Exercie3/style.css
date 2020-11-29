@@ -1,0 +1,18 @@
+h1 {
+  background-color: black;
+  text-align: center;
+  color: white;
+  text-shadow: 3px 3px red;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-transform: uppercase;
+}
+p {
+  text-indent: 20px;
+}
+p em {
+  font-weight: bold;
+  text-decoration: underline;
+}
