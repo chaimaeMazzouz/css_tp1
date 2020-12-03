@@ -5,10 +5,5 @@ h1 {
 p {
   text-align: justify;
   letter-spacing: 3px;
-  text-indent: 50px;
-}
-div {
-  border: 1px solid gray;
-  padding: 8px;
-  width: 720px;
+  text-indent: 40px;
 }
